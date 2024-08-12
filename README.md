@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hiral Solanki
+- 👋 Hi, I’m Hiral Shihora
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning angular & cms as well as framework based on PHP.
 - 💞️ I’m looking to collaborate for working as a php developer.
